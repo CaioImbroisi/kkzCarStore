@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "logo",
+    "image": "/img/banner/banner1.webp"
+  },
+  {
+    "id": 2,
+    "name": "recharge promotion",
+    "image": "/img/banner/banner2.webp"
+  }
+]

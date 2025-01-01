@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "model": "ID.4 GTX",
+    "brand": "Volkswagen",
+    "price": "R$ 240.000",
+    "year": 2023,
+    "images": ["/img/cars/Volkswagen_ID4_GTX_2024-10.jpg"]
+  },
+  {
+    "id": 2,
+    "model": "BYD Dolphin",
+    "brand": "BYD",
+    "price": "R$ 150.000",
+    "year": 2023,
+    "images": ["/img/cars/Volkswagen_ID4_GTX_2024-10.jpg"]
+  },
+  {
+    "id": 3,
+    "model": "Volvo XC40",
+    "brand": "Volvo",
+    "price": "R$ 300.000",
+    "year": 2023,
+    "images": ["/img/cars/Volkswagen_ID4_GTX_2024-10.jpg"]
+  },
+  {
+    "id": 4,
+    "model": "Nissan Leaf",
+    "brand": "Nissan",
+    "price": "R$ 200.000",
+    "year": 2023,
+    "images": ["/img/cars/Volkswagen_ID4_GTX_2024-10.jpg"]
+  },
+  {
+    "id": 5,
+    "model": "BMW iX xDrive40",
+    "brand": "BMW",
+    "price": "R$ 400.000",
+    "year": 2021,
+    "images": ["/img/cars/Volkswagen_ID4_GTX_2024-10.jpg"]
+  },
+  {
+    "id": 6,
+    "model": "Audi e-tron",
+    "brand": "Audi",
+    "price": "R$ 350.000",
+    "year": 2023,
+    "images": ["/img/cars/Volkswagen_ID4_GTX_2024-10.jpg"]
+  },
+  {
+    "id": 7,
+    "model": "Tesla Model 3",
+    "brand": "Tesla",
+    "price": "R$ 350.000",
+    "year": 2023,
+    "images": ["/img/cars/Volkswagen_ID4_GTX_2024-10.jpg"]
+  },
+  {
+    "id": 8,
+    "model": "Hyundai Kona Electric",
+    "brand": "Hyundai",
+    "price": "R$ 180.000",
+    "year": 2023,
+    "images": ["/img/cars/Volkswagen_ID4_GTX_2024-10.jpg"]
+  },
+  {
+    "id": 9,
+    "model": "Jaguar I-Pace",
+    "brand": "Jaguar",
+    "price": "R$ 450.000",
+    "year": 2023,
+    "images": ["/img/cars/Volkswagen_ID4_GTX_2024-10.jpg"]
+  },
+  {
+    "id": 10,
+    "model": "Mercedes-Benz EQB",
+    "brand": "Mercedes-Benz",
+    "price": "R$ 400.000",
+    "year": 2023,
+    "images": ["/img/cars/Volkswagen_ID4_GTX_2024-10.jpg"]
+  },
+  {
+    "id": 11,
+    "model": "Ford Mustang Mach-E",
+    "brand": "Ford",
+    "price": "R$ 320.000",
+    "year": 2023,
+    "images": ["/img/cars/Volkswagen_ID4_GTX_2024-10.jpg"]
+  },
+  {
+    "id": 12,
+    "model": "Kia Niro EV",
+    "brand": "Kia",
+    "price": "R$ 200.000",
+    "year": 2023,
+    "images": ["/img/cars/Volkswagen_ID4_GTX_2024-10.jpg"]
+  },
+  {
+    "id": 13,
+    "model": "Porsche Taycan",
+    "brand": "Porsche",
+    "price": "R$ 700.000",
+    "year": 2023,
+    "images": ["/img/cars/Volkswagen_ID4_GTX_2024-10.jpg"]
+  }
+]
